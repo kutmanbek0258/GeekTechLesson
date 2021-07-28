@@ -3,9 +3,9 @@
     <string name="oval">oval</string>
     <string name="second_app">Second app</string>
     <string name="register">Выполните вход или зарегистрируйтесь</string>
-    <string name="welcome">Добро податовать!</string>
+    <string name="welcome">Добро пожаловать!</string>
     <string name="enter_email">введите вашу почту</string>
-    <string name="enter_password">введите вашу пароль</string>
+    <string name="enter_password">введите ваш пароль</string>
     <string name="sign_in">ВОЙТИ</string>
     <string name="forget_passord">Забыли пароль?</string>
     <string name="tap">Нажми сюда</string>
